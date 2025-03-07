@@ -17,10 +17,10 @@ Features
 
 Installation & Usage 🛠️
 1️⃣ Clone the repository https://drive.google.com/drive/folders/1FPhKoNdOjgIh4To6dgvO8z0UgDsVEfGV 
-unzip it on desktop 
-cd yolobot
-colcon build --symlink-install
-source install/setup.bash
+- unzip it on desktop 
+- cd yolobot
+- colcon build --symlink-install
+- source install/setup.bash
 
 --
 
