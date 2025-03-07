@@ -7,6 +7,7 @@ Nomade Rover - AI Object Detection System
 this repository contains an AI-powered object detection module for the Nomade Rover. It leverages a camera and YOLOv8 to detect and classify various objects in real time. The system is designed for tactical defense, surveillance, and autonomous navigation.
 
 Features 
+
 - Real-time Object Detection – Uses YOLOv8 for fast and accurate recognition.
 - Camera Integration – Supports RGB & Depth Cameras for better scene understanding.
 - ROS2 Compatible – Designed to work seamlessly within the Nomade Rover ecosystem.
@@ -16,6 +17,8 @@ Features
 --
 
 Installation & Usage 🛠️
+
+
 1️⃣ Clone the repository https://drive.google.com/drive/folders/1FPhKoNdOjgIh4To6dgvO8z0UgDsVEfGV 
 - unzip it on desktop 
 - cd yolobot
