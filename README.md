@@ -29,6 +29,8 @@ Installation & Usage 🛠️
 --
 
 - pip install -r requirements.txt
+
+  
 3️⃣ Run the AI Detection Node
 
 
