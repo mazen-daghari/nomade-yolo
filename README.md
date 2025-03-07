@@ -1,7 +1,7 @@
 # nomade-yolo
 Nomade Rover - AI Object Detection System
 
-![slam](https://github.com/mazen-daghari/mazeN/blob/334f24de1bf3aeb0b9ea591387faadd7f677bd82/slam.gif)
+![camera](https://github.com/mazen-daghari/nomade-yolo/blob/537ce06f59c5c808f57b08537d569b43f4f17d10/cam.gif)
 
 
 this repository contains an AI-powered object detection module for the Nomade Rover. It leverages a camera and YOLOv8 to detect and classify various objects in real time. The system is designed for tactical defense, surveillance, and autonomous navigation.
