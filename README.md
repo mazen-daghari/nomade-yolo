@@ -28,12 +28,12 @@ Installation & Usage 🛠️
 
 --
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 3️⃣ Run the AI Detection Node
 
 
-ros2 launch yolobot_gazebo yolobot_launch.py
-rviz2
+- ros2 launch yolobot_gazebo yolobot_launch.py
+- rviz2
 
 --
 
